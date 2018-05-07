@@ -7,15 +7,17 @@
 ```
 ***
 ## Summary
-**2+ years of software development, testing, deploying experience** as a professional developer in two well companies. Expertise in handling existing project where ever the project is in.Not only a developer but I am the **developer with DevOps** experience.
+**3+ years of software development, testing, deploying experience** as a professional developer in two well companies. Expertise in handling existing project where ever the project is in.Not only a developer but I am the **developer with DevOps** experience.
 ***
 ## Skills
 
 + **Frontend**: Html, css, javascript,React js, redux, react-native,meteor js,
-+ **Backend**: spring-mvc, Spring-webflux, spring-security, swagger, JUnit, Node.js, Mongodb, mysql, php, JSF, JSP, 
++ **Backend**: spring-mvc, Spring-webflux, spring-security, swagger, Node.js, Mongodb, mysql, php, JSF, JSP, 
 + **Mobile Development**: React-native, swift, objective-c, Realm, sqlite, troubleshooting skill in android
 + **DevOps**: git-pipelining, webhooks, jenkins, docker, docker swarm, docker stack
++ **Testing**: JUnit, selenium, mocha, jest.
 + **Other software**: whmcs, Zimbra,  slack, aws, google cloud, Reseller-club, **jira**
+
 ***
 ## Experience
 **January 2017 to Current**
