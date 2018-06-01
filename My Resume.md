@@ -2,7 +2,7 @@
 ```sh
 > New Baneshwor Road, Shankhmul
 > Kathmandu, Central Development Region 44600
-> Phone Number: 981-487-7178
+> Phone Number: +977-9814877178
 > E-Mail: medineshkatwal@gmail.com
 ```
 ***
@@ -11,12 +11,13 @@
 ***
 ## Skills
 
-+ **Frontend**: Html, css, javascript,React js, redux, react-native,meteor js,
-+ **Backend**: spring-mvc, Spring-webflux, spring-security, swagger, Node.js, Mongodb, mysql, php, JSF, JSP, 
-+ **Mobile Development**: React-native, swift, objective-c, Realm, sqlite, troubleshooting skill in android
-+ **DevOps**: git-pipelining, webhooks, jenkins, docker, docker swarm, docker stack
-+ **Testing**: JUnit, selenium, mocha, jest.
-+ **Other software**: whmcs, Zimbra,  slack, aws, google cloud, Reseller-club, **jira**
++ **Frontend**: html, css, javascript,React js, redux, react-native,meteor js, react-native
++ **Backend**: Java, Spring 4, Spring 5 Non-blocking, Swagger, EJB, JAX-RS, JAX-WS, JMS, JSF, JSP, Servlets, design patterns
++ **Build Tools**: Maven, Gradle
++ **Database**: MongoDb, Mysql, Postgresdb, sqlite, Stored Procedures ,Triggers, Cursors
++ **DevOps**: tomcat, jetty, Glashfish, git-pipelining, webhooks, jenkins, docker
++ **Testing**: JUnit, selenium, Mockito
++ **Other software**: whmcs, Zimbra, slack, aws, google-cloud, Reseller-club, jira, linux/unix command
 
 ***
 ## Experience
@@ -27,7 +28,7 @@ I was working on Nepallink Network to build product for company itself. I learn 
 + **ClientPortal** using react js.
 + **AdminPortal** using react js
 * **Build different rest api.**
-  - ***Billing Api***, ***HealthApi***, ***TicketApi***, ***DomainApi***, ***ManageApi*** in using different tools like ***Spring-mvc***, ***spring-webflux***, ***mongodb***, ***mysql***, ***whmcs***, ***zimbra***, ***icinga***, ***jenkins***, ***docker***, ***swagger***, ***spring-cloud-config***, 
+  - ***Billing Api***, ***HealthApi***, ***TicketApi***, ***DomainApi***, ***ManageApi***  using different tools like ***Spring-mvc***, ***spring-webflux***, ***mongodb***, ***mysql***, ***whmcs***, ***zimbra***, ***icinga***, ***jenkins***, ***docker***, ***swagger***, ***spring-cloud-config***, 
 - - -
 **May 2015 to January 2017**
 **Mantra Ideas Pvt Ltd Kathmandu, Bagmati**
