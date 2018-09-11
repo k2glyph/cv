@@ -20,6 +20,7 @@
 ***
 ## Experience
 **January 2017 to Current**
+
 ***NepalLink Network Kathmandu, Central Development Region***
 **React/Java Developer**
 I was working on Nepallink Network to build product for company itself. I learn different stuff here like DevOps and Many more tools to optimize the development process.
@@ -29,6 +30,7 @@ I was working on Nepallink Network to build product for company itself. I learn 
   - ***Billing Api***, ***HealthApi***, ***TicketApi***, ***DomainApi***, ***ManageApi*** in using different tools like ***Spring-mvc***, ***spring-webflux***, ***mongodb***, ***mysql***, ***whmcs***, ***zimbra***, ***icinga***, ***jenkins***, ***docker***, ***swagger***, ***spring-cloud-config***, 
 - - -
 **May 2015 to January 2017**
+
 **Mantra Ideas Pvt Ltd Kathmandu, Bagmati**
 **Java Developer**
 Working on mantra ideas is one of the great experience of mine. Where I learn different techniques and continuously work on enhancing my knowledge.
