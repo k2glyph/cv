@@ -9,7 +9,7 @@
 - - -
 ### Skills
 + **Frontend**: HTML, CSS, Javascript, React, Angular
-+ **Backend**: Java, Spring, Kafka
++ **Backend**: Java, Spring, Kafka, Liquibase
 + **Database**: Mysql, MongoDb
 + **DevOps**: git, webhooks, Jenkins, Docker, bash, groovy-pipeline, nginx, Apache, Centos server, bind-dns, Icinga, Ansible, Vagrant, Hubot, Python, consul,AWS S3, AWS direct-connect, AWS Coginito, consul, spring-boot-admin
 + **Testing**: JUnit, TestNg, Mokito, Selenium, SauceLabs
