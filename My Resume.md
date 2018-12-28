@@ -11,17 +11,20 @@
 + **Frontend**: HTML, CSS, Javascript, React, Angular
 + **Backend**: Java, Spring, Kafka, Liquibase
 + **Database**: Mysql, MongoDb
-+ **DevOps**: git, webhooks, Jenkins, Docker, bash, groovy-pipeline, nginx, Apache, Centos server, bind-dns, Icinga, Ansible, Vagrant, Hubot, Python, consul,AWS S3, AWS direct-connect, AWS Coginito, consul, spring-boot-admin
++ **Scripting**: bash, Python, groovy
++ **DevOps**: git, Jenkins, Docker,Kubernetes nginx, Apache, Centos server, bind-dns, Icinga, Ansible, Vagrant, Hubot, consul,AWS S3, AWS direct-connect, AWS Coginito, consul, spring-boot-admin, 
 + **Testing**: JUnit, TestNg, Mokito, Selenium, SauceLabs
 - - -
 ### Experience
 **NepalLink Network Kathmandu, Central Development Region**
-**Java Developer January 2017 to Current**
-I was working on Nepallink Network to build a product for the company itself. I learn different stuff here like DevOps and Many more tools to optimize the development process.
-+ **ClientPortal** using React js.
-+ **AdminPortal** using React js
-* **Build different rest API.**
-  - Billing, Health, TicketApi, DomainApi, ManageApi in using different tools like Spring-mv, spring-webflux, mongodb, mysql, whmcs, zimbra, icinga, jenkins, docker, swagger, spring-cloud-config 
+**Java/ DevOps January 2017 to Current**
+I was working on Nepallink Network to build a product for the company itself. I learn different stuff here like DevOps and Many more tools to optimize the development process.<br/>
+#### Responsibility
++ **Build frontend with react.js and angular**
++ **Build backend with microservice architecture in java with spring framework**
++ **Deploy application with docker using blue-green deployment pattern**
++ **Create and implement script in groovy help of jenkins and sonarqube PR validation**
++ **Deploy application with docker-swarm in cluster and monitoring with Promethe
 - - -
 **Mantra Ideas Pvt Ltd Kathmandu, Bagmati**
 **Java Developer May 2015 to December 2016**
