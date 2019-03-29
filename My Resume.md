@@ -8,23 +8,27 @@
 **3+ years of software development, testing, deploying experience** as a professional developer in two well-known companies. Expertise in handling project where ever the project is in. Not only a developer but I am the **developer with DevOps** experience.
 - - -
 ### Skills
-+ **Frontend**: HTML, CSS, Javascript, React, Angular
++ **Frontend**: HTML, CSS, Javascript, React
 + **Backend**: Java, Spring, Kafka, Liquibase
 + **Database**: Mysql, MongoDb
 + **Scripting**: bash, Python, groovy
-+ **DevOps**: git, Jenkins, Docker,Kubernetes nginx, Apache, Centos server, bind-dns, Icinga, Ansible, Vagrant, Hubot, consul,AWS S3, AWS direct-connect, AWS Coginito, consul, spring-boot-admin, 
++ **DevOps**: git, Jenkins, Docker,Kubernetes nginx, Apache, Centos server, bind-dns, Icinga, Ansible, Vagrant, Vault, consul,AWS S3, AWS EKS, consul, spring-boot-admin, 
 + **Testing**: JUnit, TestNg, Mokito, Selenium, SauceLabs
 - - -
 ### Experience
 **NepalLink Network Kathmandu, Central Development Region**
 **Java/ DevOps January 2017 to Current**
-I was working on Nepallink Network to build a product for the company itself. I learn different stuff here like DevOps and Many more tools to optimize the development process.<br/>
+Working here in nepallink is one of my great experience because I got a chance to explorer new technologies, troubleshooting problem<br/>
 #### Responsibility
-+ **Build frontend with react.js and angular**
++ **Build frontend with react.js**
 + **Build backend with microservice architecture in java with spring framework**
 + **Deploy application with docker using blue-green deployment pattern**
-+ **Create and implement script in groovy help of jenkins and sonarqube PR validation**
-+ **Deploy application with docker-swarm in cluster and monitoring with Promethe
++ **Create and implement script in groovy help of jenkins and code quality analysis with sonarqube PR validation**
++ **Deploy application with docker-swarm in cluster and log forwarding with rsyslog
++ **Create Ansible playbook for provision and infrastruce setup**
++ **Create Vagrant script and creat custom vm with packer**
++ **Deploy application in kubernetes cluster in EKS(AWS)/ GKE(GOOOGLE)**
++ **Secret management with vault and integration into Jenkins for Automation**
 - - -
 **Mantra Ideas Pvt Ltd Kathmandu, Bagmati**
 **Java Developer May 2015 to December 2016**
