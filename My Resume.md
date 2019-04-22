@@ -7,11 +7,11 @@
 ### Summary
 **3+ years of software development, testing, deploying experience** as a professional developer in two well-known companies. Expertise in handling project where ever the project is in. Not only a developer but I am the **developer with DevOps** experience.
 - - -
-### Skills
+### Top Skills
++ **DevOps**: git, Jenkins, Docker,Kubernetes nginx,haproxy, Apache, Centos server, bind-dns, Icinga, Ansible, Vagrant, Vault, consul,AWS S3, AWS EKS, consul, Fluentd, Elasticsearch, monit, 
 + **Backend**: Java, Spring, Kafka, Liquibase
 + **Database**: Mysql, MongoDb
 + **Scripting**: bash, Python, groovy
-+ **DevOps**: git, Jenkins, Docker,Kubernetes nginx, Apache, Centos server, bind-dns, Icinga, Ansible, Vagrant, Vault, consul,AWS S3, AWS EKS, consul 
 + **Testing**: JUnit, TestNg, Mokito, Selenium, SauceLabs
 - - -
 ### Experience
