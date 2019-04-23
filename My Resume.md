@@ -28,7 +28,7 @@
 + **Secret management with vault and integration into Jenkins for Automation**
 - - -
 **Mantra Ideas Pvt Ltd Kathmandu, Bagmati**
-**Java Developer May 2015 to December 2016**
+**Java Developer May 2015 to November 2017**
 Working on mantra ideas is one of the great experience of mine. Where I learn different techniques and continuously work on enhancing my knowledge.
 #### Responsibility
 + **Color Visualizer** application for jasmine paint in Java Swing and JavaFX.
