@@ -16,20 +16,19 @@
 - - -
 ### Experience
 **NepalLink Network Kathmandu, Central Development Region**
-**Java/ DevOps January 2017 to Current**
+**Java / DevOps January 2017 to Current**
 #### Responsibility
 + **Build backend with microservice architecture in java with spring framework**
 + **Deploy application with docker using blue-green deployment pattern**
 + **Create and implement script in groovy help of jenkins and code quality analysis with sonarqube PR validation**
-+ **Deploy application with docker-swarm in cluster and log forwarding with rsyslog
-+ **Create Ansible playbook for provision and infrastruce setup**
-+ **Create Vagrant script and creat custom vm with packer**
++ **Deploy application with docker-swarm in cluster and log forwarding with rsyslog**
++ **Create Ansible playbook for provisioning infrastructure**
++ **Create Vagrant script and create custom vm with packer**
 + **Deploy application in kubernetes cluster in EKS(AWS)/ GKE(GOOOGLE)**
 + **Secret management with vault and integration into Jenkins for Automation**
 - - -
 **Mantra Ideas Pvt Ltd Kathmandu, Bagmati**
 **Java Developer May 2015 to November 2017**
-Working on mantra ideas is one of the great experience of mine. Where I learn different techniques and continuously work on enhancing my knowledge.
 #### Responsibility
 + **Color Visualizer** application for jasmine paint in Java Swing and JavaFX.
 + **library management** API using Spring-web-MVC.
