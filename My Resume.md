@@ -27,7 +27,7 @@
 + **Create Vagrant script and create custom vm with packer**
 + **Deploy application in kubernetes cluster in EKS(AWS)/ GKE(GOOOGLE)**
 + **Secret management with vault and integration into Jenkins for Automation**
-+ **Create bash script and python script for task that cannot be done by tools**
++ **Create bash script and python script for task that cannot be done by tools or limited on tools**
 - - -
 **Mantra Ideas Pvt Ltd Kathmandu, Bagmati**
 **Java Developer May 2015 to November 2017**
