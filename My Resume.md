@@ -9,10 +9,10 @@
 - - -
 ### Top Skills
 + **DevOps**: git, Jenkins, Docker,Kubernetes nginx,haproxy, Apache, Centos server, bind-dns, Icinga, Ansible, Vagrant, Vault, consul,AWS S3, AWS EKS, consul, Fluentd, Elasticsearch, monit, 
-+ **Backend**: Java, Spring, Kafka, Liquibase
++ **Backend**: Java
 + **Database**: Mysql, MongoDb
 + **Scripting**: bash, Python, groovy
-+ **Testing**: JUnit, TestNg, Mokito, Selenium, SauceLabs
++ **Testing**: JUnit, TestNg, Mockito, Selenium, SauceLabs
 - - -
 ### Experience
 **NepalLink Network Kathmandu, Central Development Region**
