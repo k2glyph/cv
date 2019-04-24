@@ -1,6 +1,6 @@
 ## Dinesh Katwal
 ```sh
-> Tokha-Road, Dhapasi, Kathmandu, Central Development Region 44600
+> Tokha-Road, Dhapasi, Kathmandu,              Central Development Region 44600
 > Phone Number: +977-9814877178                E-Mail: medineshkatwal@gmail.com
 ```
 - - - 
