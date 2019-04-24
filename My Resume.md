@@ -36,8 +36,10 @@
 
 ***
 ### Education and Training
-***Janjyoti Technical School, Central Development Region***
-**3 years Computer Overseers. Computer Science**
-- - -
 ***Nepal Commerce Campus, Central Development Region***
 **BIM Computer Science + Management**
+- - -
+***Janjyoti Technical School, Central Development Region***
+**3 years Computer Overseers. Computer Science**
+
+
