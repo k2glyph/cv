@@ -8,7 +8,7 @@
 **3+ years of software development, testing, deploying experience** as a professional developer in two well-known companies. Expertise in handling project where ever the project is in. Not only a developer but I am the **developer with DevOps** experience.
 - - -
 ### Skills and Toke
-+ **DevOps**: git, Jenkins, Docker, Kubernetes, nginx, haproxy, Apache, Centos server, Icinga, Ansible, Vagrant, Vault, AWS S3, EKS, GKE, consul, Fluentd, Elasticsearch, monit, Sonarqube, Rancher 2.0
++ **DevOps**: git, Jenkins, Docker, Kubernetes, nginx, haproxy, Apache, Centos server, Icinga, Ansible, Vagrant, Vault, AWS S3, EKS, GKE, consul, Fluentd, Elasticsearch, monit, Sonarqube, Rancher 2.0, Helm
 + **Backend**: Java
 + **Database**: Mysql, MongoDb
 + **Scripting**: bash, Python, groovy
