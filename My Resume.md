@@ -30,7 +30,7 @@
 + **Create bash script and python script for task that cannot be done by tools or limited on tools**
 - - -
 **Mantra Ideas Pvt Ltd Kathmandu, Bagmati**
-**Java Developer May 2015 to November 2017**
+**Java Developer May 2015 to November 2016**
 #### Responsibility
 + **Color Visualizer** application for jasmine paint in Java Swing and JavaFX.
 + **library management** API using Spring-web-MVC.
